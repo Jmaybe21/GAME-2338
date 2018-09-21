@@ -1,0 +1,7 @@
+## Game Critique 
+
+The game i decided to critique is The Legend of Zelda Twlight Princess, the action adventure game off the Nintendo gamecube/Wii/Wii U is well played out and entertaing. After playing the game for several years, multiple time i came up with function that go towards tester to test.
+
+When playing on the Wii and Wii the tester could consider looking at is the contoller set up to where if people want to use either a gamecube controller or just a wired controller. Using the gamepad is nice but what if poeple game pad dosent work or not functioning properly that could be a fallback. A important factor that could be tested is the movement in the horse when links aquires it. Making sure the move commands u input in the controller respond to the game and follows fluid and have no delays or counter mesaures. When it comes to water levels that makes a make or break for game when it comes to movemnt and camera pyhsics. In the game swiming needs to feel like it fits and belongs in the game and have that natural realization to it. Aiming in the game takes a lot of work to accomplish. its eaier to aim on a controller than to aim on the Wii remotes cause of the shakeness of ones hands. The tster could test to see how to calibrate the motion on the remote to aim better and not miss targets.
+
+When it comes to the game theirs a lot of fucntions that could be tested. These are some of the fuctions i found that could benifit the game and improve to be more playable for the gamer.
